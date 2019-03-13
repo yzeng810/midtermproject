@@ -1,0 +1,192 @@
+* {
+	/*border: 1px solid hotpink;*/
+	font-family: 'Assistant', sans-serif;
+}
+
+h2 {
+	margin-left: 10px;
+	font-size: 40px;
+	letter-spacing: 1.8px;
+	word-spacing: 8px;
+	margin-bottom: 30px;
+	font-weight: lighter;
+	color: grey;
+}
+
+/* position text centered on the image */
+figure {
+	position: relative;
+	text-align: center;
+  	color: white;
+}
+
+figcaption {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/* First Pic section */
+.full-width img {
+	width: 100%;
+}
+
+.full-width figure{
+	padding:0;
+	margin: 0;
+	width: 100%;
+	z-index: 0;
+}
+
+.full-width figcaption {
+	font-size: 45px;
+	letter-spacing: 10px;
+	font-weight: lighter;
+	width: 100%;
+}
+
+
+/* Discover the resort section */
+.intro {
+	color: grey;
+	word-spacing: 2px;
+	margin-left: 11px;
+	margin-right: 10px;
+	padding: 18px;
+	background-color: white;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	margin-bottom: 30px;
+}
+
+.adventures, .dinning, .accommodation {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	margin-right: 10px;
+}
+
+.adventures figcaption,.dinning figcaption,.accommodation figcaption {
+	font-size: 45px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+}
+
+.adventures p, .accommodation p{
+	align-self: center;
+	word-spacing: 2px;
+	font-weight: lighter;
+}
+
+.dinning p {
+	text-align: right;
+	align-self: center;
+	padding-left: 50px;
+	word-spacing: 2px;
+	font-weight: lighter;
+}
+
+.innerp {
+	align-self: center;
+}
+
+.titlep {
+	color: #505050;
+	font-size: 26px;
+	margin-right: 200px;
+}
+
+.subp {
+	margin-right: 50px;
+	color: grey;
+}
+
+.titlep1 {
+	color: #505050;
+	font-size: 26px;
+	margin-left: 200px;
+}
+
+.subp1 {
+	margin-left: 50px;
+	color: grey;
+}
+/* One of a kind Section */
+
+.unique ul {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.unique li {
+	color: #505050;
+	font-size: 20px;
+	letter-spacing: 1.5px;
+	margin-bottom: 30px;
+	background-color: white;
+  	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  	list-style: none;
+  	padding: 15px;
+  	width: 90%;
+}
+
+/* Gallery Section */
+
+.gallery {
+	margin-top: 25px;
+	text-align: center;
+}
+
+.gallery img {
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.gallerysec1 img {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+
+/* More Info Section */
+.moreinfo {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.moreinfo figure {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.moreinfo figcaption {
+	font-size: 40px;
+	letter-spacing: 8px;
+	font-weight: lighter;
+}
+
+.destination, .brand {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.reserve {
+	text-align: center;
+	font-size: 20px;
+	align-self: center;
+	letter-spacing: 2px;
+}
+
+a:link {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+.reserve a:hover{
+	border-bottom: solid 2px black;
+}

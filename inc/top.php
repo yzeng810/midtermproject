@@ -6,6 +6,8 @@
 	<link rel="stylesheet" href="<?php echo($style); ?>">
 	<link rel="stylesheet" href="<?php echo($top); ?>">
 	<link rel="stylesheet" href="<?php echo($css); ?>">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Assistant" rel="stylesheet">
 </head>
 
 <body>
