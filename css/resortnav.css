@@ -1,0 +1,122 @@
+* {
+    font-family: 'Assistant', sans-serif;
+   
+}
+
+.banner ul {
+    margin-bottom: 8px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.banner {
+    background-color: #27272d;
+    top:0px;
+    width:100%;
+    display:inline-flex;
+    text-align: center;
+    padding-bottom: 0px;
+    z-index: 1;
+    position: sticky;
+}
+
+h1 {
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
+    font-size: 32px;
+    font-weight: 100;
+    color: white;
+    font-family: 'Bellefair', serif;
+    padding-left: 15px;
+    margin-bottom: 5px;
+
+}
+
+header {
+    text-align: left;
+    width: auto;
+    position: relative;
+    white-space: nowrap;
+}
+
+nav {
+    width: 100%;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    text-align: center;
+    color: darkgrey;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.signup {
+    list-style: none;
+    width: 130px;
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    background-color: #1b1b1f;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.signup a{
+    color: white;
+}
+
+.dropdown {
+    display: inline-block;
+    overflow: hidden;
+    padding-top: 15px;
+    float: left;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #27272d;
+    opacity: 0.7;
+    width: 100%;
+    left: 0px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+
+.dropdown-content a {
+    float: none;
+    color: darkgrey;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.dropbtn:hover {
+    color: white;
+} 
+
+.dropdown-content a:hover {
+    color: white;
+}
+
+.signup a:hover {
+    color: darkgrey;
+}
+
+
+

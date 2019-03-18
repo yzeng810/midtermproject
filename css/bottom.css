@@ -1,0 +1,26 @@
+footer {
+    background-color: #27272d;
+    bottom:0px;
+    width:100%;
+    display:block;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: darkgrey;
+    letter-spacing: 0.8px;
+    word-spacing: 1px;
+}
+
+.footer a {
+  color: darkgrey;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: white;
+}

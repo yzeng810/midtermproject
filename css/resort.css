@@ -3,14 +3,9 @@
 	font-family: 'Assistant', sans-serif;
 }
 
-h2 {
-	margin-left: 10px;
-	font-size: 40px;
-	letter-spacing: 1.8px;
-	word-spacing: 8px;
-	margin-bottom: 30px;
-	font-weight: lighter;
-	color: grey;
+.inner-container{
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 /* position text centered on the image */
@@ -27,6 +22,21 @@ figcaption {
 	transform: translate(-50%, -50%);
 }
 
+.introcap {
+	font-family: 'Bellefair', serif;
+}
+
+/* h2 Title Tag Section */
+h2 {
+	margin-left: 10px;
+	font-size: 40px;
+	letter-spacing: 1.8px;
+	word-spacing: 8px;
+	margin-bottom: 30px;
+	font-weight: lighter;
+	color: grey;
+}
+
 /* First Pic section */
 .full-width img {
 	width: 100%;
@@ -37,6 +47,7 @@ figcaption {
 	margin: 0;
 	width: 100%;
 	z-index: 0;
+	position: static;
 }
 
 .full-width figcaption {
@@ -44,6 +55,7 @@ figcaption {
 	letter-spacing: 10px;
 	font-weight: lighter;
 	width: 100%;
+	top: 57%;
 }
 
 
@@ -71,16 +83,8 @@ figcaption {
 	letter-spacing: 3px;
 }
 
-.adventures p, .accommodation p{
+.adventures p, .accommodation p, .dinning p{
 	align-self: center;
-	word-spacing: 2px;
-	font-weight: lighter;
-}
-
-.dinning p {
-	text-align: right;
-	align-self: center;
-	padding-left: 50px;
 	word-spacing: 2px;
 	font-weight: lighter;
 }
@@ -97,17 +101,6 @@ figcaption {
 
 .subp {
 	margin-right: 50px;
-	color: grey;
-}
-
-.titlep1 {
-	color: #505050;
-	font-size: 26px;
-	margin-left: 200px;
-}
-
-.subp1 {
-	margin-left: 50px;
 	color: grey;
 }
 /* One of a kind Section */
@@ -137,10 +130,15 @@ figcaption {
 	text-align: center;
 }
 
+.gallery section {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
 .gallery img {
 	padding-bottom: 20px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 3px;
+	padding-left: 3px;
 }
 
 .gallerysec1 img {
@@ -178,12 +176,12 @@ figcaption {
 	letter-spacing: 2px;
 }
 
-a:link {
+.reserve a:link {
 	text-decoration: none;
 	color: black;
 }
 
-a:visited {
+.reserve a:visited {
 	color: black;
 }
 
