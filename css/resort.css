@@ -1,3 +1,4 @@
+/*For all or multiple sections*/
 * {
 	/*border: 1px solid hotpink;*/
 	font-family: 'Assistant', sans-serif;
@@ -77,18 +78,6 @@ h2 {
 	margin-right: 10px;
 }
 
-.adventures figcaption,.dinning figcaption,.accommodation figcaption {
-	font-size: 45px;
-	font-weight: lighter;
-	letter-spacing: 3px;
-}
-
-.adventures p, .accommodation p, .dinning p{
-	align-self: center;
-	word-spacing: 2px;
-	font-weight: lighter;
-}
-
 .innerp {
 	align-self: center;
 }
@@ -102,6 +91,18 @@ h2 {
 .subp {
 	margin-right: 50px;
 	color: grey;
+}
+
+.adventures figcaption,.dinning figcaption,.accommodation figcaption {
+	font-size: 45px;
+	font-weight: lighter;
+	letter-spacing: 3px;
+}
+
+.adventures p, .accommodation p, .dinning p{
+	align-self: center;
+	word-spacing: 2px;
+	font-weight: lighter;
 }
 /* One of a kind Section */
 
@@ -148,22 +149,6 @@ h2 {
 
 
 /* More Info Section */
-.moreinfo {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-}
-
-.moreinfo figure {
-	margin-left: 0px;
-	margin-right: 0px;
-}
-
-.moreinfo figcaption {
-	font-size: 40px;
-	letter-spacing: 8px;
-	font-weight: lighter;
-}
-
 .destination, .brand {
 	margin-right: 10px;
 	margin-left: 10px;
@@ -176,6 +161,26 @@ h2 {
 	letter-spacing: 2px;
 }
 
+.moreinfo {
+	margin-left: 15px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.moreinfo figure {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	
+}
+
+.moreinfo figcaption {
+	font-size: 40px;
+	letter-spacing: 8px;
+	font-weight: lighter;
+}
+
+/*Pseudo-class element Section*/
 .reserve a:link {
 	text-decoration: none;
 	color: black;

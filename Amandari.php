@@ -52,15 +52,15 @@
 	<h2>ONE OF A KIND</h2>
 	<section class="unique">
 		<ul>
-			<li>Exceptional Services</li>
 			<li>Balinese Village</li>
-			<li>Balinese Cultural Inspiration</li>
-			<li>Natural Surroundings</li>
-			<li>Integrated Into Local Village</li>
 			<li>Pool Villa</li>
-			<li>Stunning Property</li>
+			<li>Exceptional Services</li>
 			<li>Best For Wellness Retreats</li>
+			<li>Balinese Cultural Inspiration</li>
+			<li>Integrated Into Local Village</li>
 			<li>Wonderful Scenary</li>
+			<li>Stunning Property</li>
+			<li>Natural Surroundings</li>
 		</ul>
 	</section>
 

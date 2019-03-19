@@ -1,5 +1,17 @@
+/*For all or multiple sections*/
+
+/*Slider*/
 .text {
 	font-family: 'Bellefair', serif;
+}
+/*Resort 1&2*/
+.excerpt {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	text-align: center;
 }
 
 .resort1, .resort2{
@@ -11,13 +23,9 @@
 	width: 400px;
 }
 
-.excerpt {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-bottom: 50px;
-	text-align: center;
+.innerexcerpt {
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .excerpt h2 {
@@ -29,20 +37,6 @@
 .excerpt p {
 	color: grey;
 	margin-bottom: 30px;
-}
-
-.signupbutton {
-	align-self: center;
-	font-size: 20px;
-}
-
-.innerexcerpt {
-	margin-left: 10px;
-	margin-right: 10px;
-}
-
-.discoverlink {
-	margin-top: 20px;
 }
 
 .excerpt sub {
@@ -58,6 +52,18 @@
 	letter-spacing: 1.4px;
 	border-bottom: solid 1px #505050;
 }
+
+/*Discover Link*/
+.signupbutton {
+	align-self: center;
+	font-size: 20px;
+}
+
+.discoverlink {
+	margin-top: 20px;
+}
+
+/*Pseudo Code Section*/
 
 .excerpt a:visited {
 	color: #505050;
