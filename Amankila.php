@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/amankila0.jpg">
+		<img src="images/amankila0.jpg" alt="amankila">
 		<figcaption class="introcap">AMANKILA | BALI </figcaption>
 		</figure>
 	</section>
@@ -21,7 +21,7 @@
 			<p class="intro">Amankila means ‘peaceful hill’, but the name is a little modest – the resort occupies a breathtaking hilltop spot on Bali’s east coast, with ancient, spiritual and regal neighbours here in the historic Karangasem Regency. Balinese culture dictates design details throughout: recurring motifs reference the ruins of the nearby water palace at Ujung; a three-tier infinity pool spills down the hillside like a cascading rice paddy. Thatched-roof Suites are set on stilts, just visible above the treetops, and are decorated with paras stone and furniture inlaid with pearl and coconut shell. A series of frangipani-lined walkways connects the property’s buildings, conceived by architect Ed Tuttle.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/amankila1.jpg">
+					<img src="images/amankila1.jpg" alt="amankila1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -31,7 +31,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/amankila2.jpg">
+					<img src="images/amankila2.jpg" alt="amankila2">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -41,7 +41,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/amankila3.jpg">
+					<img src="images/amankila3.jpg" alt="amankila3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -68,29 +68,29 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amankila4.jpg">
-		<img src="images/amankila6.jpg">
-		<img src="images/amankila5.jpg">
+		<img src="images/amankila4.jpg" alt="amankila4">
+		<img src="images/amankila6.jpg" alt="amankila6">
+		<img src="images/amankila5.jpg" alt="amankila5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amankila7.jpg">
-		<img src="images/amankila8.jpg">		
-		<img src="images/amankila9.jpg">
+		<img src="images/amankila7.jpg" alt="amankila7">
+		<img src="images/amankila8.jpg" alt="amankila8">		
+		<img src="images/amankila9.jpg" alt="amankila9">
 		</section>
 		<section class="gallerysec1" data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amankila11.jpg">
-		<img src="images/amankila10.jpg">
-		<img src="images/amankila12.jpg">
+		<img src="images/amankila11.jpg" alt="amankila11">
+		<img src="images/amankila10.jpg" alt="amankila10">
+		<img src="images/amankila12.jpg" alt="amankila12">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amankila13.jpg">
-		<img src="images/amankila14.jpg">
-		<img src="images/amankila15.jpg">
+		<img src="images/amankila13.jpg" alt="amankila13">
+		<img src="images/amankila14.jpg" alt="amankila14">
+		<img src="images/amankila15.jpg" alt="amankila15">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amankila17.jpg">
-		<img src="images/amankila16.jpg">
-		<img src="images/amankila18.jpg">
+		<img src="images/amankila17.jpg" alt="amankila17">
+		<img src="images/amankila16.jpg" alt="amankila16">
+		<img src="images/amankila18.jpg" alt="amankila18">
 		</section>
 	</section>
 
@@ -99,7 +99,7 @@
 		<section class="destination">
 			<a href="http://www.bali-indonesia.com/">
 			<figure>
-				<img src="images/bali.jpg">
+				<img src="images/bali.jpg" alt="bali">
 				<figcaption>BALI</figcaption>
 			</figure>
 			</a>
@@ -107,7 +107,7 @@
 		<section class="brand">
 			<a href="https://www.aman.com/">
 			<figure>
-				<img src="images/aman0.jpg">
+				<img src="images/aman0.jpg" alt="aman">
 				<figcaption>AMAN</figcaption>
 			</figure>
 			</a>
@@ -119,6 +119,8 @@
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

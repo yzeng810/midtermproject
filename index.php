@@ -10,25 +10,25 @@
 	
 	<section class="slideshow-container">
 		<section class="mySlides fade">
-			<img src="images/discover1.jpg">
+			<img src="images/discover1.jpg" alt="discover1">
 			<section class="text">DISCOVER YOUR NEXT DESTINATION</section>
 		</section>
 		<section class="mySlides fade">
-			<img src="images/discover2.jpg">
+			<img src="images/discover2.jpg" alt="sea">
 			<section class="text">THE SEA BREEZE</section>
 		</section>
 		<section class="mySlides fade">
-			<img src="images/cultural.jpg">
+			<img src="images/cultural.jpg" alt="cultural">
 			<section class="text">CULTURAL INSPIRATION</section>
 		</section>
 		<section class="mySlides fade">
-			<img src="images/jungle.jpg">
+			<img src="images/jungle.jpg" alt="jungle">
 			<section class="text">JUNGLE ADVENTURE</section>
 		</section>
 		<section class="mySlides fade">
-			<img src="images/winter.jpg">
+			<img src="images/winter.jpg" alt="winter">
 			<section class="text">WINTER WONDERLAND</section>
-	</section>
+		</section>
 
 		<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 		<a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -43,12 +43,10 @@
   		<span class="dot" onclick="currentSlide(5)"></span>
 	</section>
 
-	</div><!--MenuContainer-->
-
 	<section class="excerpt">
 		
 		<section class="resort1">
-			<img src="images/hotel1.jpg">
+			<img src="images/hotel1.jpg" alt="hotel1">
 			<section class="innerexcerpt">
 			<h2>Spring Escape to Morroco</h2>
 			<p>Undiscover Marrakech, experience the wonder of Marrakech, the red city, from Amenjena peaceful garden retreat. Within easy reach of the Unesco-protected medina of Marrakech, Amanjena offers the perfect vantage point from which to explore all the city has to offer. Alone or with a guide, visit the museums, and the Place Jemaa El Fna, one of Morocco’s busiest squares and bustling day and night with entertainers and street food.</p>
@@ -61,7 +59,7 @@
 		</section>
 
 		<section class="resort2">
-			<img src="images/hotel2.jpg">
+			<img src="images/hotel2.jpg" alt="hotel2">
 			<section class="innerexcerpt">
 			<h2>Cultural Beijing</h2>
 			<p>A region rich in culture, history and natural beauty, China is home to ancient civilisations and a plethora of UNESCO World Heritage Sites, and offers the intriguing juxtaposition of contemporary urban metropolises with ancient monuments. Enjoy a cultural itinerary of guided tours and Chinese traditions, including a tea ceremony and a picnic at the Summer Palace, with a stay of three nights or more.</p>
@@ -77,9 +75,11 @@
 			<a href="Amandari.php">Discover Your Next Destination Now</a>
 		</section>
 	
-		</section>
+	</section>
 
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

@@ -9,7 +9,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/amanjena1.jpg">
+		<img src="images/amanjena1.jpg" alt="amanjena1">
 		<figcaption class="introcap">AMANJENA | MARRAKECH </figcaption>
 		</figure>
 	</section>
@@ -20,7 +20,7 @@
 			<p class="intro">The magical caidal tent – with its 1,001 Nights candles – promises a true sense of Morocco. Inspired by the rose-hued buildings of old Marrakech and its 12th-century Menara gardens, palatial Amanjena lies just outside the fabled Red City. Amid shady courtyards with petal-strewn fountains, traditional earth-toned pisé-de-terre walls give way to the central basin – it’s this ancient-style reflection pool that helps nourish the gardens and its date palms, olive trees and bursts of exotic flora. Vaulted ceilings and Moorish arches house cool, elegant interiors.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/amanjena5.jpg">
+					<img src="images/amanjena5.jpg" alt="amenjena5">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -30,7 +30,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/amanjena4.jpg">
+					<img src="images/amanjena4.jpg" alt="amenjena4">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -40,7 +40,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/amanjena3.jpg">
+					<img src="images/amanjena3.jpg" alt="amenjena3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -67,29 +67,29 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanjena2.jpg">
-		<img src="images/amenjena4.jpg">
-		<img src="images/amanjena6.jpg">
+		<img src="images/amanjena2.jpg" alt="amanjena2">
+		<img src="images/amenjena4.jpg" alt="amenjena4">
+		<img src="images/amanjena6.jpg" alt="amenjena6">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amenjena7.jpg">
-		<img src="images/amenjena8.jpg">		
-		<img src="images/amenjena9.jpg">
+		<img src="images/amenjena7.jpg" alt="amenjena7">
+		<img src="images/amenjena8.jpg" alt="amenjena8">		
+		<img src="images/amenjena9.jpg" alt="amenjena9">
 		</section>
 		<section class="gallerysec1" data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amenjena16.jpg">
-		<img src="images/amanjena17.jpg">
-		<img src="images/amanjena18.jpg">
+		<img src="images/amenjena16.jpg" alt="amenjena16">
+		<img src="images/amanjena17.jpg" alt="amenjena17">
+		<img src="images/amanjena18.jpg" alt="amenjena18">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanjena10.jpg">
-		<img src="images/amanjena11.jpg">
-		<img src="images/amanjena12.jpg">
+		<img src="images/amanjena10.jpg" alt="amenjena10">
+		<img src="images/amanjena11.jpg" alt="amenjena11">
+		<img src="images/amanjena12.jpg" alt="amenjena12">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanjena13.jpg">
-		<img src="images/amanjena14.jpg">
-		<img src="images/amanjena15.jpg">
+		<img src="images/amanjena13.jpg" alt="amenjena13">
+		<img src="images/amanjena14.jpg" alt="amenjena14">
+		<img src="images/amanjena15.jpg" alt="amenjena15">
 		</section>
 	</section>
 
@@ -98,7 +98,7 @@
 		<section class="destination">
 			<a href="https://www.tripadvisor.com/Tourism-g293734-Marrakech_Marrakech_Tensift_El_Haouz_Region-Vacations.html">
 			<figure>
-				<img src="images/marrackech.jpg">
+				<img src="images/marrackech.jpg" alt="marrackech">
 				<figcaption>MARRACKECH</figcaption>
 			</figure>
 			</a>
@@ -106,18 +106,20 @@
 		<section class="brand">
 			<a href="https://www.aman.com/">
 			<figure>
-				<img src="images/aman0.jpg">
+				<img src="images/aman0.jpg" alt="aman">
 				<figcaption>AMAN</figcaption>
 			</figure>
 			</a>
 		</section>
 		<section class="reserve">
-			<a href="https://gc.synxis.com/rez.aspx?Chain=16840&Hotel=62474&Lang=1&template=RBE3&shell=RBE2&_ga=2.247669444.23871301.1552509151-442015745.1552509151&__utma=234760334.442015745.1552509151.1552509156.1552509156.1&__utmb=234760334.3.10.1552509156&__utmc=234760334&__utmx=-&__utmz=234760334.1552509156.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=171026147">Reserve Now
+			<a href="https://www.aman.com/resorts/amanjena">Reserve Now
 			</a>
 		</section>
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

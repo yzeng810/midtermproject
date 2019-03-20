@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/phsanya0.jpg">
+		<img src="images/phsanya0.jpg" alt="phsanya">
 		<figcaption class="introcap">PARK HYATT | SANYA </figcaption>
 		</figure>
 	</section>
@@ -21,7 +21,7 @@
 			<p class="intro">Designed to resemble a private mansion by the sea, the sophisticated, elegant interiors are residential in style with a subtle Chinese sensibility. At Park Hyatt Sanya Sunny Bay Resort, enriching experiences and unexpected pleasures await. Our associates are dedicated to providing warm, discreet, dignified service, to transform simple moments into lasting memories. In addition, the resort has acquired Baifu (Fortune) Bay-a private bay right next to Sunny Bay-cited as offering the best dive conditions in China</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/phsanya1.jpg">
+					<img src="images/phsanya1.jpg" alt="phsanya1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -31,7 +31,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/phsanya2.jpg">
+					<img src="images/phsanya2.jpg" alt="phsanya2">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -41,7 +41,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/phsanya3.jpg">
+					<img src="images/phsanya3.jpg" alt="phsanya3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -68,14 +68,14 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/phsanya4.jpg">
-		<img src="images/phsanya6.jpg">
-		<img src="images/phsanya5.jpg">
+		<img src="images/phsanya4.jpg" alt="phsanya4">
+		<img src="images/phsanya6.jpg" alt="phsanya6">
+		<img src="images/phsanya5.jpg" alt="phsanya5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/phsanya7.jpg">
-		<img src="images/phsanya8.jpg">		
-		<img src="images/phsanya9.jpg">
+		<img src="images/phsanya7.jpg" alt="phsanya7">
+		<img src="images/phsanya8.jpg" alt="phsanya8">		
+		<img src="images/phsanya9.jpg" alt="phsanya9">
 		</section>
 	</section>
 
@@ -84,7 +84,7 @@
 		<section class="destination">
 			<a href="https://www.tripadvisor.com/Tourism-g297427-Sanya_Hainan-Vacations.html">
 			<figure>
-				<img src="images/sanya.jpg">
+				<img src="images/sanya.jpg" alt="sanya">
 				<figcaption>SANYA</figcaption>
 			</figure>
 			</a>
@@ -92,7 +92,7 @@
 		<section class="brand">
 			<a href="https://www.hyatt.com/brands/park-hyatt">
 			<figure>
-				<img src="images/ph.jpg">
+				<img src="images/ph.jpg" alt="park-hyatt">
 				<figcaption>PARK HYATT</figcaption>
 			</figure>
 			</a>
@@ -104,6 +104,8 @@
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

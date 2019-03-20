@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/amandari0.jpg">
+		<img src="images/amandari0.jpg" alt="amandari0">
 		<figcaption class="introcap">AMANDARI | BALI </figcaption>
 		</figure>
 	</section>
@@ -20,7 +20,7 @@
 			<p class="intro">Designed after a traditional Balinese village, with sweeping views of the Ayung valley's jungled slopes, Amandari has integrated so sensitively into its hillside setting that it feels as though it has always been here. Guest suites take the form of village houses, with alang-alang roofs and interiors of coconut, teak and bamboo. Presided over by a sacred stone tiger, the grounds are not just for guests: children attend dance classes here, and villagers regularly wander by. Beyond the parastone walls, iconic rice terraces, artisan villages and Bali's cultural heart, Ubud, lie waiting.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/amandari1.jpg">
+					<img src="images/amandari1.jpg" alt="amandari1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -30,7 +30,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/amandari2.jpg">
+					<img src="images/amandari2.jpg" alt="amandari2">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -40,7 +40,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/amandari3.jpg">
+					<img src="images/amandari3.jpg" alt="amandari3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -67,29 +67,29 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amandari4.jpg">
-		<img src="images/amandari6.jpg">
-		<img src="images/amandari5.jpg">
+		<img src="images/amandari4.jpg" alt="amandari4">
+		<img src="images/amandari6.jpg" alt="amandari6">
+		<img src="images/amandari5.jpg" alt="amandari5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amandari7.jpg">
-		<img src="images/amandari8.jpg">		
-		<img src="images/amandari9.jpg">
+		<img src="images/amandari7.jpg" alt="amandari7">
+		<img src="images/amandari8.jpg" alt="amandari8">		
+		<img src="images/amandari9.jpg" alt="amandari9">
 		</section>
 		<section class="gallerysec1" data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amandari10.jpg">
-		<img src="images/amandari11.jpg">
-		<img src="images/amandari12.jpg">
+		<img src="images/amandari10.jpg" alt="amandari10">
+		<img src="images/amandari11.jpg" alt="amandari11">
+		<img src="images/amandari12.jpg" alt="amandari12">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amandari13.jpg">
-		<img src="images/amandari14.jpg">
-		<img src="images/amandari15.jpg">
+		<img src="images/amandari13.jpg" alt="amandari13">
+		<img src="images/amandari14.jpg" alt="amandari14">
+		<img src="images/amandari15.jpg" alt="amandari15">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amandari17.jpg">
-		<img src="images/amandari16.jpg">
-		<img src="images/amandari18.jpg">
+		<img src="images/amandari17.jpg" alt="amandari17">
+		<img src="images/amandari16.jpg" alt="amandari18">
+		<img src="images/amandari18.jpg" alt="amandari18">
 		</section>
 	</section>
 
@@ -98,7 +98,7 @@
 		<section class="destination">
 			<a href="http://www.bali-indonesia.com/">
 			<figure>
-				<img src="images/bali.jpg">
+				<img src="images/bali.jpg" alt="bali">
 				<figcaption>BALI</figcaption>
 			</figure>
 			</a>
@@ -106,13 +106,13 @@
 		<section class="brand">
 			<a href="https://www.aman.com/">
 			<figure>
-				<img src="images/aman0.jpg">
+				<img src="images/aman0.jpg" alt="aman">
 				<figcaption>AMAN</figcaption>
 			</figure>
 			</a>
 		</section>
 		<section class="reserve">
-			<a href="https://gc.synxis.com/rez.aspx?Chain=16840&Hotel=62465&Lang=1&template=RBE3&shell=RBE2&_ga=2.249950597.2076956452.1552525777-57270418.1552525777&__utma=234760334.57270418.1552525777.1552525778.1552525778.1&__utmb=234760334.1.10.1552525778&__utmc=234760334&__utmx=-&__utmz=234760334.1552525778.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=222332760">Reserve Now
+			<a href="https://www.aman.com/resorts/amandari">Reserve Now
 			</a>
 		</section>
 	</section>

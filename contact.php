@@ -42,6 +42,8 @@
 			<input type="submit" value="submit" class="submit">
 	</form>
 
+</div>
+
 <?php include "inc/bottom.php"; ?>
 
 <?php include "inc/scripts.inc"; ?>

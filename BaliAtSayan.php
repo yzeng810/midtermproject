@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/sayan0.jpg">
+		<img src="images/sayan0.jpg" alt="sayan">
 		<figcaption class="introcap">BALI AT SAYAN | BALI </figcaption>
 		</figure>
 	</section>
@@ -21,7 +21,7 @@
 			<p class="intro">Float above treetops on a dramatic suspension bridge and cross into a different world. With locally inspired experiences and rice bowl-shaped architecture set against the lush Ayung River Valley, our Resort takes you closer to the heart and soul of Bali. Immersed in lush jungle greenery of the Ayung River valley, our blissful spa treatments draw on the water’s energy and ancient Balinese healing rituals. Sayan Valley has a sacred energy, and you can feel it in the forest symphony of the river, wildlife and gentle breezes.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/sayan1.jpg">
+					<img src="images/sayan1.jpg" alt="sayan1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -31,7 +31,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/sayan2.jpg">
+					<img src="images/sayan2.jpg" alt="sayan2">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -41,7 +41,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/sayan3.jpg">
+					<img src="images/sayan3.jpg" alt="sayan3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -68,14 +68,14 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/sayan4.jpg">
-		<img src="images/sayan6.jpg">
-		<img src="images/sayan5.jpg">
+		<img src="images/sayan4.jpg" alt="sayan4">
+		<img src="images/sayan6.jpg" alt="sayan6">
+		<img src="images/sayan5.jpg" alt="sayan5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/sayan7.jpg">
-		<img src="images/sayan8.jpg">		
-		<img src="images/sayan9.jpg">
+		<img src="images/sayan7.jpg" alt="sayan7">
+		<img src="images/sayan8.jpg" alt="sayan8">		
+		<img src="images/sayan9.jpg" alt="sayan9">
 		</section>
 	</section>
 
@@ -84,7 +84,7 @@
 		<section class="destination">
 			<a href="http://www.bali-indonesia.com/">
 			<figure>
-				<img src="images/bali.jpg">
+				<img src="images/bali.jpg" alt="bali">
 				<figcaption>BALI</figcaption>
 			</figure>
 			</a>
@@ -92,7 +92,7 @@
 		<section class="brand">
 			<a href="https://www.fourseasons.com/">
 			<figure>
-				<img src="images/fs.jpg">
+				<img src="images/fs.jpg" alt="fourseasons">
 				<figcaption>FOUR SEASONS</figcaption>
 			</figure>
 			</a>
@@ -104,6 +104,8 @@
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

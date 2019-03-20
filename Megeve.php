@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/megeve0.jpg">
+		<img src="images/megeve0.jpg" alt="megeve">
 		<figcaption class="introcap">MEGEVE | FRENCH ALPS </figcaption>
 		</figure>
 	</section>
@@ -20,7 +20,7 @@
 			<p class="intro">Meet us in Megève, in the heart of the French Alps, directly on the Mont d’Arbois ski slopes. This modern chalet builds on the legacy of the Rothschild family who set out to create an unrivaled resort experience nearly a century ago. Distinct French character, pure Alpine tradition, and an intimate and inviting setting in both summer and winter define this mountain retreat. Play one of the world’s finest Alpine golf courses, relax in the region’s largest spa, and dine at Le 1920, honoured with two Michelin stars.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/megeve1.jpg">
+					<img src="images/megeve1.jpg" alt="megeve1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -30,7 +30,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/megeve2.jpg">
+					<img src="images/megeve2.jpg" alt="megeve2">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -40,7 +40,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/megeve3.jpg">
+					<img src="images/megeve3.jpg" alt="megeve3">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -67,14 +67,14 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/megeve4.jpg">
-		<img src="images/megeve6.jpg">
-		<img src="images/megeve5.jpg">
+		<img src="images/megeve4.jpg" alt="megeve4">
+		<img src="images/megeve6.jpg" alt="megeve6">
+		<img src="images/megeve5.jpg" alt="megeve5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/megeve7.jpg">
-		<img src="images/megeve8.jpg">		
-		<img src="images/megeve9.jpg">
+		<img src="images/megeve7.jpg" alt="megeve7">
+		<img src="images/megeve8.jpg" alt="megeve8">		
+		<img src="images/megeve9.jpg" alt="megeve9">
 		</section>
 	</section>
 
@@ -83,7 +83,7 @@
 		<section class="destination">
 			<a href="https://www.planetware.com/tourist-attractions-/savoy-f-rh-sav.htm">
 			<figure>
-				<img src="images/frenchalps.jpg">
+				<img src="images/frenchalps.jpg" alt="frenchalps">
 				<figcaption>FRENCH ALPS</figcaption>
 			</figure>
 			</a>
@@ -91,7 +91,7 @@
 		<section class="brand">
 			<a href="https://www.fourseasons.com/">
 			<figure>
-				<img src="images/fs.jpg">
+				<img src="images/fs.jpg" alt="fourseasons">
 				<figcaption>FOUR SEASONS</figcaption>
 			</figure>
 			</a>
@@ -103,6 +103,8 @@
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

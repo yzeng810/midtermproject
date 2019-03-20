@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/amanleme0.jpg">
+		<img src="images/amanleme0.jpg" alt="amanleme">
 		<figcaption class="introcap">AMAN LE MELEZIN | FRENCH ALPS </figcaption>
 		</figure>
 	</section>
@@ -21,7 +21,7 @@
 			<p class="intro">A ski-in, ski-out hotel in Courchevel 1850, Aman Le Melezin deftly melds alpine elegance with a distinctly Asian ambience that encourages peaceful reflection away from the pistes. At the expansive Aman Spa, shiatsu, Thai massage and yoga soothe and re-energise, while culinary nourishment is provided by Japanese restaurant Nama, unique to Les Trois Vallees. With ski butlers easing guests on and off the slopes in complete comfort, there is a seamlessness to Aman Le Melezin that seems to defy the elements in this breathtaking mountain setting. Open for the winter ski season from 14 December.</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/frenchalps1.jpg">
+					<img src="images/frenchalps1.jpg" alt="frenchalps1">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -31,7 +31,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/amanleme1.jpg">
+					<img src="images/amanleme1.jpg" alt="amanleme1">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -41,7 +41,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/amanleme2.jpg">
+					<img src="images/amanleme2.jpg" alt="amanleme2">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -68,29 +68,29 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanleme6.jpg">
-		<img src="images/amanleme3.jpg">
-		<img src="images/amanleme5.jpg">
+		<img src="images/amanleme6.jpg" alt="amanleme6">
+		<img src="images/amanleme3.jpg" alt="amanleme3">
+		<img src="images/amanleme5.jpg" alt="amanleme5">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanleme7.jpg">
-		<img src="images/amanleme8.jpg">		
-		<img src="images/amanleme14.jpg">
+		<img src="images/amanleme7.jpg" alt="amanleme7">
+		<img src="images/amanleme8.jpg" alt="amanleme8">		
+		<img src="images/amanleme14.jpg" alt="amanleme14">
 		</section>
 		<section class="gallerysec1" data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanleme9.jpg">
-		<img src="images/amanleme10.jpg">
-		<img src="images/amanleme11.jpg">
+		<img src="images/amanleme9.jpg" alt="amanleme9">
+		<img src="images/amanleme10.jpg" alt="amanleme10">
+		<img src="images/amanleme11.jpg" alt="amanleme11">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanleme13.jpg">
-		<img src="images/amanleme17.jpg">
-		<img src="images/amanleme12.jpg">
+		<img src="images/amanleme13.jpg" alt="amanleme13">
+		<img src="images/amanleme17.jpg" alt="amanleme17">
+		<img src="images/amanleme12.jpg" alt="amanleme12">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/amanleme19.jpg">
-		<img src="images/amanleme16.jpg">
-		<img src="images/amanleme15.jpg">
+		<img src="images/amanleme19.jpg" alt="amanleme19">
+		<img src="images/amanleme16.jpg" alt="amanleme16">
+		<img src="images/amanleme15.jpg" alt="amanleme15">
 		</section>
 	</section>
 
@@ -99,7 +99,7 @@
 		<section class="destination">
 			<a href="https://www.planetware.com/tourist-attractions-/savoy-f-rh-sav.htm">
 			<figure>
-				<img src="images/frenchalps.jpg">
+				<img src="images/frenchalps.jpg" alt="frenchalps">
 				<figcaption>FRENCH ALPS</figcaption>
 			</figure>
 			</a>
@@ -107,18 +107,20 @@
 		<section class="brand">
 			<a href="https://www.aman.com/">
 			<figure>
-				<img src="images/aman0.jpg">
+				<img src="images/aman0.jpg" alt="aman">
 				<figcaption>AMAN</figcaption>
 			</figure>
 			</a>
 		</section>
 		<section class="reserve">
-			<a href="https://gc.synxis.com/rez.aspx?Chain=16840&Hotel=62479&Lang=1&template=RBE&shell=RBE2&arrive=12%2F15%2F2017&adult=2&_ga=2.219715419.353231302.1552513232-51242672.1552513232&__utma=234760334.51242672.1552513232.1552513235.1552522043.2&__utmb=234760334.1.10.1552522043&__utmc=234760334&__utmx=-&__utmz=234760334.1552513235.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=264398796">Reserve Now
+			<a href="https://www.aman.com/resorts/aman-le-melezin">Reserve Now
 			</a>
 		</section>
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 

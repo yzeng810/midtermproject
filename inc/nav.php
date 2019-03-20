@@ -51,4 +51,4 @@
 	</ul>
 </nav>
 
-</div> <!--Banner-->
+</div> 

@@ -44,7 +44,7 @@
 - Rationale for this order
   - Start from the All Resorts tab, readers can browse all resorts to see the scope of the website, what resorts are included in the website and if there's any resort in particular they are looking for more info.
   - If readers they do not have anything in particular and the scope of this website fits his/her interests, they can proceed to explore the following tabs which are presented according to the theme of resorts and the occassions of travelers 
-  - These themes are in order according to their popularity, from most popular to the least. 
+  - These themes are in order according to popularity of travel themes, from most popular to the least. 
 - Reasons for no Home buttom in navigation
   - Most internet users today know that click on the title (h1 heading) will automatically take you back to the home page
   - The home page did not contain more important info. All important info is accessible when users are on any other pages of the website. 
@@ -74,10 +74,6 @@
 
 - Index Page
 
-### Reasons for choosing Z-pattern for index page
-
-- Z-pattern emphasizes calls-to-action and applies to page that feature smaller contents, and the primary goal of index page is to introduce the website with smaller content and ask reader to subscribe for newsletter. 
-
 ### Reasons for contents in each quadrant
 
 - Point #1: Since it's primary optical area, it's the best place to show the name of the website.
@@ -89,53 +85,56 @@
 
 ### Location 
 
-- Resort Page
-
-### Reasons for choosing F-pattern for resort page
-
-- There are many contents in the resort page but readers rarely read them all, so it is better to use F-pattern and put those more important one to where is most viewed by readers.
+- Resort Page Discover The Resort Section
 
 ### Reasons for the layout
 
-<!--From Top to Bottom, and From Left to Right-->
-
-- Top to bottom order of the page is arranged based on the order of importance, from the most important to the least.
-
-- Navigation Bar
-  - Left: Since its the spot to place the most important content, I chose to display the name of the resort 
-  - Right: The secondary goal of this website is to have readers subscribe to a newsletter, and the right point of top line is a hotspot to grab attention. 
-- First Section - Headline
-  - Headline of the resort page is a picture with the resort name
-  - Headline is the most important place to grab users' attentions, and considering the contents of this website -resorts, the best way to grab users' attentions is a symbolic picture of the resort which shall let users visualize themselves in the resort and interest them to keep reading. 
-  - I chose not to present more info because I consider that w
-  - Even though the standard of F-pattern may suggest that I place the H2 level heading on the left side, I prefer to text align it in the center of the image because it is more blended into the picture and shows more emphasis of the h2 level heading. 
 - Second Section - Discover the resort 
-  - The first content section always grabs the most attentions among all other content sections. Therefore, I chose to present an overview of the hotel, including adventures, dinning and accommondations. 
-  - Left: Comparing with the text element, I believe that header with an important and representative picture is more important. Therefore, I placed it on the very left. Readers may not need to read the text. They can feel it in the picture element 
-  - Right: On the rightside, I choose to display the less important content - text. 
-  - I didn't choose to display any relevent but unrelevent content on the rightest side because the style of this website tends to be more minimalism and I'm trying to display only those relevent content to make it clean and easy to read.
-  - And the order inside this section is according to order of an vacation day:  play, eat and rest.
-- Third Section - One of a kind, Fourth Section - Gallary, *Fifth Section - More Info 
-  - Starting from these sections, contents becomes less important, and these contents are more for people to scan through instead of carefully viewed. Therefore, there is no intended left and right section of these sections as I believe that these sections have hardly any fixations.
-  - *Fifth Section has a side-by-side layout because of the information flow - after reading all the information, the readers might want to make a reservation, therefore, there's a reservation link at the end. However, as this website 's primary goal is to present information instead of making reservation, I put it in the very end where does not grab many attentions in a F-pattern page. 
-- Overall 
-  - The vertical line of F-pattern is achieved through each headings: Discover the resort, One of a kind, Gallary and  More info 
-  - The horizontal line is achieved:
-    - Headlines
-    - Discover the resort Section 
-  - The blank part in F is achieved through least important sections 
+  - The picture with heading can grab readers' attentions and the heading inform users about the content, so that it can entice readers to continue to the next content section - paragraph of text.
 
 ## C.R.A.P principles 
 
 ### Contrast
 
-- 
+1. Resort Page Discover The Resort Section Paragraph Texts
+   - Bigger font-size and darker color emphasize the important contents in the paragraph 
+2. Subscribe button in the Resort page navigation 
+   - With same font size with the nav element but lighter color, the subscribe button is highlighted in the nav section so that it can users' eyeballs to the subscribe button
+
+### Repetition 
+
+1. Resort Page 
+   - Every resort page has the same sections so it looks like to the user that these pages belong to one website 
+2. Contents inside the Discover The Resort, One of A Kind, Gallary sections
+   - Layout inside these sections has repetition so that it tells user that these subcontents belongs to one section
+
+### Alignment 
+
+1. All text element except figure caption in the body part 
+   - All are align to the left so that readers can better read the text avoiding readability problems.
+
+### Proximity
+
+1. Between each sections in resort page 
+   - Between each sections has wider margin so that it helps readers know that they have different contents
+2. Between each subsections
+   - They have smaller margins than sections so that they know subsections belong to one section 
 
 ## Fonts Selection
 
+### Title & Heading - Bellefair
 
+- It's serif which is better for Title & heading than sans-serif 
+- It's lighter than other serif fonts so that it fits the website style - modern and minimalism 
 
+### Body - Assistant 
 
+- It's light and sans-serif so it looks simple and easy. It's better for readers to read when there are many words. So I use it in the body section 
+- Latin typeface which are the same as the Title & heading fonts
+
+## CSS Structure 
+
+- I use my own CSS architecture. I arranged all CSS files according to the page contents with pseudo class element section in the end so that i can easily find each element and modify it.
 
 
 

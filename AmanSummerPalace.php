@@ -10,7 +10,7 @@
 
 	<section class="full-width">
 		<figure>
-		<img src="images/aman.jpg">
+		<img src="images/aman.jpg" alt="amansp1">
 		<figcaption class="introcap">AMAN SUMMER PALACE | BEIJING </figcaption>
 		</figure>
 	</section>
@@ -21,7 +21,7 @@
 			<p class="intro">Just a few steps from the East Gate of the Summer Palace grounds lies Aman at Summer Palace - the ideal location from which to discover both the history and energy of the Chinese capital. Housed in a series of pavilions, the resort is only 15km from the Forbidden City. A serene retreat, the property provides easy access to such cultural landmarks as the Great Wall, The Temple of Heaven and the hutongs, as well as Beijing's restaurants, art galleries and other contemporary delights. Aman Summer Palace offers a selection of heritage-imbued dwellings, including those once used by guests awaiting an audience with the Empress</p>
 			<section class="adventures">
 				<figure>
-					<img src="images/aman3.jpg">
+					<img src="images/aman3.jpg" alt="amansp3">
 					<figcaption>Adventures</figcaption>
 				</figure>
 				<section class="innerp">
@@ -31,7 +31,7 @@
 			</section>
 			<section class="dinning">
 				<figure>
-					<img src="images/aman4.jpg">
+					<img src="images/aman4.jpg" alt="amansp4">
 					<figcaption>Dinning</figcaption>
 				</figure>
 				<section class="innerp">
@@ -41,7 +41,7 @@
 			</section>
 			<section class="accommodation">
 				<figure>
-					<img src="images/aman5.jpg">
+					<img src="images/aman5.jpg" alt="amansp5">
 					<figcaption>Accommodation</figcaption>
 				</figure>
 				<section class="innerp">
@@ -68,29 +68,29 @@
 	<h2>GALLARY</h2>
 	<section class="gallery">
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/aman8.jpg">
-		<img src="images/aman12.jpg">
-		<img src="images/aman2.jpg">
+		<img src="images/aman8.jpg" alt="aman8">
+		<img src="images/aman12.jpg" alt="aman12">
+		<img src="images/aman2.jpg" alt="aman2">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/aman7.jpg">
-		<img src="images/aman11.jpg">		
-		<img src="images/aman9.jpg">
+		<img src="images/aman7.jpg" alt="aman7">
+		<img src="images/aman11.jpg" alt="aman11">		
+		<img src="images/aman9.jpg" alt="aman9">
 		</section>
 		<section class="gallerysec1" data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/aman15.jpg">
-		<img src="images/aman6.jpg">
-		<img src="images/aman10.jpg">
+		<img src="images/aman15.jpg" alt="aman15">
+		<img src="images/aman6.jpg" alt="aman6">
+		<img src="images/aman10.jpg" alt="aman10">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/aman1.jpg">
-		<img src="images/aman13.jpg">
-		<img src="images/aman14.jpg">
+		<img src="images/aman1.jpg" alt="aman1">
+		<img src="images/aman13.jpg" alt="aman13">
+		<img src="images/aman14.jpg" alt="aman14">
 		</section>
 		<section data-aos="fade-up" data-aos-duration="1500">
-		<img src="images/aman16.jpg">
-		<img src="images/aman17.jpg">
-		<img src="images/aman18.jpg">
+		<img src="images/aman16.jpg" alt="aman16">
+		<img src="images/aman17.jpg" alt="aman17">
+		<img src="images/aman18.jpg" alt="aman18">
 		</section>
 	</section>
 
@@ -99,7 +99,7 @@
 		<section class="destination">
 			<a href="https://www.chinahighlights.com/beijing/">
 			<figure>
-				<img src="images/beijing.jpg">
+				<img src="images/beijing.jpg" alt="beijing">
 				<figcaption>BEIJING</figcaption>
 			</figure>
 			</a>
@@ -107,18 +107,20 @@
 		<section class="brand">
 			<a href="https://www.aman.com/">
 			<figure>
-				<img src="images/aman0.jpg">
+				<img src="images/aman0.jpg" alt="aman">
 				<figcaption>AMAN</figcaption>
 			</figure>
 			</a>
 		</section>
 		<section class="reserve">
-			<a href="https://gc.synxis.com/rez.aspx?Chain=16840&Hotel=62475&Lang=1&template=RBE3&shell=RBE2&_ga=2.181702503.1526737735.1552497496-1592223707.1552497496&__utma=234760334.1592223707.1552497496.1552497500.1552497500.1&__utmb=234760334.1.10.1552497500&__utmc=234760334&__utmx=-&__utmz=234760334.1552497500.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=29985788">Reserve Now
+			<a href="https://www.aman.com/resorts/aman-summer-palace">Reserve Now
 			</a>
 		</section>
 	</section>
 	</section>
 </main>
+
+</div>
 
 <?php include "inc/bottom.php"; ?>
 
